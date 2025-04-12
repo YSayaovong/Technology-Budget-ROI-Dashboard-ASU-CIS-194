@@ -3,7 +3,7 @@
 This project was developed as part of my coursework for **ASU – CIS 194: Business Technology Fundamentals**.
 
 ## 🔧 Tools Used
-- Excel (Pivot Tables, Conditional Formatting, Formulas)
+- Excel
 - Power BI (Interactive Dashboard)
 - GitHub for version control
 
