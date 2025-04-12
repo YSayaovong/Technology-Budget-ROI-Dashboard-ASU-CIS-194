@@ -17,16 +17,16 @@ Analyzed technology spending across departments and categories:
 The following visuals were created to present the ROI of tools used across departments:
 
 ### Annual Software Cost by Department
-![Annual Software Cost](PowerBI_Dashboard/Images/Annual%20Software%20Cost%20by%20Dept.PNG)
+![Annual Software Cost](PowerBi/Images/Annual%20Software%20Cost%20by%20Dept.PNG)
 
 ### Monthly ROI Score by Tool
-![Monthly ROI Score](PowerBI_Dashboard/Images/Monthly%20ROI%20Score%20by%20Tool.PNG)
+![Monthly ROI Score](PowerBi/Images/Monthly%20ROI%20Score%20by%20Tool.PNG)
 
 ### Tool Performance Table
-![Tool Performance Table](PowerBI_Dashboard/Images/Tool%20Performance%20by%20Table.PNG)
+![Tool Performance Table](PowerBi/Images/Tool%20Performance%20by%20Table.PNG)
 
 ### Top Tools by ROI
-![Top Tools by ROI](PowerBI_Dashboard/Images/Top%20Tools%20by%20ROI.PNG)
+![Top Tools by ROI](PowerBi/Images/Top%20Tools%20by%20ROI.PNG)
 
 ## ✅ Key Skills Demonstrated
 - Budget variance analysis
